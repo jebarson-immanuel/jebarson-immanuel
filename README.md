@@ -17,7 +17,7 @@ Currently into **offensive security**, **Wazuh/SIEM engineering**, and **bug bou
 
 ```
 Languages     Python, JavaScript, Bash, SQL
-Security      Burp Suite, Nmap, Wazuh, Nuclei, FOFA, Hydra
+Security      Burp Suite, Metasploit, Nmap, Wireshark, Wazuh
 Reversing     JADX, apktool
 Web           Node.js, HTML/CSS
 Infra         Linux, Docker, Nginx, Redis
